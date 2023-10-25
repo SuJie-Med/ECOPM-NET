@@ -10,7 +10,7 @@ This repository provides code for "***ECOPM-NET: A novel essential covariance pr
 * pandas 1.3.5+
 * Backbown:Conv-64F，ResNet-12
 ## Data Preparation
-> Download Stanford Cars Dataset from https://link.zhihu.com/?target=http%3A//ai.stanford.edu/~jkrause/cars/car_dataset.html
+> Download Stanford Cars Dataset from https://ai.stanford.edu/~jkrause/cars/car_dataset.html
 
 > Download backbown form
 ## How to run
