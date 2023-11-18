@@ -12,7 +12,9 @@ This repository provides code for "***ECOPM-NET: A novel essential covariance pr
 ## Data Preparation
 > Download Stanford Cars Dataset from https://ai.stanford.edu/~jkrause/cars/car_dataset.html
 
-> Download backbown form
+> Download CUB-200 Dataset form http://www.vision.caltech.edu/datasets/cub_200_2011/
+
+> Download Stanford Cars Dataset from http://vision.stanford.edu/aditya86/ImageNetDogs/ 
 ## How to run
 ~~~python
 python Test_5way1shot.py
